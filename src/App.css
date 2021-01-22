@@ -1,0 +1,31 @@
+body{
+  background-color: aliceblue;
+}
+
+.page-title{
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+
+.form-container{
+  width: 400px;
+  margin: auto;
+}
+
+.welcome{
+  margin-bottom: 10px;
+}
+
+.header{
+  font-size: 20px;
+}
+
+.ui.pink.button:focus, .ui.pink.buttons .button{
+  background-color: #e03997;
+}
+
+.commentArea{
+  padding: 8px;
+}
